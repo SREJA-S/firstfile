@@ -1,0 +1,1 @@
+every choice has a regret , but you have to work yourself that the regret changes into prid
